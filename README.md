@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @naoefacio
-- 👀 I’m interested in games and all sorts of technology
-- 🌱 I’m currently learning python and Linux OS
-- 💞️ I’m looking to collaborate on games
+- 👋 Hi, I’m Letícia Oliveira;
+- 👀 I’m interested in games and all sorts of technology;
+- 🌱 I’m currently learning Java, python and Linux OS;
